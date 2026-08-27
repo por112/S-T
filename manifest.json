@@ -1,0 +1,21 @@
+{
+  "short_name": "ScienceZero",
+  "name": "Science Zero - Survival Game",
+  "icons": [
+    {
+      "src": "/icon-32.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-16.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "orientation": "any"
+}
